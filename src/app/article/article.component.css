@@ -1,0 +1,4 @@
+.pull-bottom {
+  display: table-cell;
+  vertical-align: bottom;
+}
